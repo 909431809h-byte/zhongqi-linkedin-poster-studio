@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zhongqi Poster Studio"
+  short_description: "Build verified premium LinkedIn B2B poster campaigns"
+  default_prompt: "Use $zhongqi-linkedin-poster-studio to create a verified 10-poster LinkedIn campaign for Zhongqi."
