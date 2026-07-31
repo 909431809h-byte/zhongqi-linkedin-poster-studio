@@ -1,0 +1,25 @@
+{
+  "name": "zhongqi-linkedin-poster-studio",
+  "version": "0.2.0",
+  "description": "Verified premium LinkedIn B2B poster campaigns for Zhongqi.",
+  "author": {
+    "name": "Zhongqi",
+    "url": "https://github.com/909431809h-byte"
+  },
+  "repository": "https://github.com/909431809h-byte/zhongqi-linkedin-poster-studio",
+  "homepage": "https://github.com/909431809h-byte/zhongqi-linkedin-poster-studio",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Zhongqi Poster Studio",
+    "shortDescription": "Verified premium LinkedIn B2B poster campaigns.",
+    "longDescription": "Develop and verify original 1.91:1 Zhongqi LinkedIn campaigns with exact English copy rendered in-image, mobile-safe composition, brand-safe negative space, and visibly distinct art directions.",
+    "developerName": "Zhongqi",
+    "category": "Design",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Use Zhongqi Poster Studio to create 10 distinct premium LinkedIn B2B poster concepts for Zhongqi.",
+      "Create and verify a 1.91:1 Zhongqi overseas-client LinkedIn poster with the English copy inside the image."
+    ],
+    "brandColor": "#FF6602"
+  }
+}
